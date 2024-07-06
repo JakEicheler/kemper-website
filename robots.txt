@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://www.jakob-kemper.eu/sitemap.xml
+Sitemap: https://www.jakob-eicheler.eu/sitemap.xml
